@@ -1,0 +1,1 @@
+pr_name: B  price: 35  stock:1

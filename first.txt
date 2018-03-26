@@ -1,0 +1,4 @@
+pr_name: A  price: 28  stock:3
+pr_name: B  price: 35  stock:1
+
+
